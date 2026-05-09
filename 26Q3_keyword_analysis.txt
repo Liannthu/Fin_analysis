@@ -1,0 +1,81 @@
+=========================================
+🔍 關鍵字: RISC-V (共找到 0 處)
+=========================================
+
+未找到相關提及。
+
+=========================================
+🔍 關鍵字: QUALCOMM (共找到 1 處)
+=========================================
+
+👤 **==> picture [12 x 16] intentionally omitted <==**
+💬 humanoid robot is also powered by a custom Arm-based AI processor and platform from leading silicon providers like NVIDIA's Jetson Thor and Qualcomm's Dragonwing platforms are scaling Arm-based solutions across robotics and autonomous systems.
+
+=========================================
+🔍 關鍵字: DATA CENTER (共找到 16 處)
+=========================================
+
+👤 ## Chief Executive Officer & Director, Arm Holdings Plc
+💬 Thank you, Jeff and welcome everyone. Arm delivered a record third quarter. Revenue grew 26% year-on-year to $1.24 billion. Our fourth consecutive $1 billion quarter. Royalties increased 27% to a record $737 million, driven by record units with strength across AI and general purpose data center. Our data center royalty revenue has grown more than 100% year-on-year, and we expect in a few years our data center business to be our largest business, larger than mobile.
+
+👤 **==> picture [12 x 16] intentionally omitted <==**
+💬 To align with how our customers deploy AI, we've organized ourselves around three business units: edge AI, physical AI, and cloud AI. Edge AI comprises the smartphone and IoT businesses. Physical AI includes automotive and robotics, and cloud AI encompasses data center and networking. A key driver of our royalty momentum is compute subsystems or CSS. We launched CSS nearly two-and-a-half years ago and demand continues to exceed expectations. This quarter, we signed two additional CSS licenses for edge AI tablets and smartphones, bringing us to 21 CSS licenses across 12 companies. Five customers are now shipping CSS based chips, including two shipping a second generation platform, and the top four Android smartphone vendors are shipping CSS power devices. CSS helps customer get to market faster by lowering integration risk and complexity. As demand scales, it increases the value that Arm delivers per chip, creating a significant tailwind to royalties.
+
+👤 [段落接續]
+💬 In cloud AI, the shift towards inference is reshaping data center design, and increasingly that inference is agentbased. These workloads are persistent, always-on and power constrained. This is a fundamental change in how AI systems operate. This is because agent-based AI requires coordination across many agents running continuously, and that the CPU can only do coordination. As this model scales, customers need CPU chips with higher core counts and better power efficiency to operate continuously within tight power and cost constraints. This trend directly benefits Arm. Arm-based CPU chips deliver industry-leading performance per watt, enabling customers to scale core counts and run always-on AI workloads. We are now seeing this trend play out in the market where Neoverse CPUs have surpassed 1 billion cores deployed and Arm share amongst the top hyperscalers is expected to reach 50%.
+
+👤 [段落接續]
+💬 We are also seeing more integrated platform designs to improve system efficiency, often translating to more AI output or more tokens per watt within the same power envelope. AWS integrates Graviton with Arm-based Nitro DPUs and Trainium accelerators, and NVIDIA pairs GPUs with Arm-based Grace CPUs and Arm-based Bluefield DPUs with its transition to Vera delivering a 6x increase in DPU compute capability over the prior generation. Together, these trends make it clear that as AI inference becomes more agent-based, the importance of CPUs is only increasing. And as a result, Arm's role at the center of the modern data center architecture continues to grow rapidly. Outside the data center, AI is now moving to everyday devices. The edge and physical AI markets are opening up new growth opportunities. These systems operate in real time under strict power, safety and reliability constraints, where efficient and predictable general purpose compute is essential.
+
+👤 [段落接續]
+💬 To close, AI is moving to every environment in every power envelope. Arm provides the foundation for that shift, a platform that spans milliwatts to gigawatts, and a developer ecosystem over 22 million developers, more than 80% of the global total. We are now seeing the results of strategies we put in place years ago, focusing on the data center, power efficiency, and compute subsystems. As a result, as more and more applications move to agentic AI, Arm will be the compute platform connecting cloud, edge, and physical AI use cases.
+
+👤 ## Executive Vice President & Chief Financial Officer, Arm Holdings Plc
+💬 Thank you Rene. We have delivered another strong quarter. Total revenue grew 26% year-on-year to a record $1.24 billion, marking our fourth consecutive quarter above $1 billion. Royalty revenue exceeded our expectations, growing 27% year-on-year to a record $737 million. The biggest growth contributors for smartphones with higher royalty rates per chip and in the data center, where our revenues continue to grow tripledigits year-on-year, s we see ongoing share gains from custom hyperscaler chips. Royalty revenue from edge AI devices such as smartphones continues to grow much faster than the market. All the major Android OEMs are now ramping smartphones with chips based on both Armv9 and CSS.
+
+👤 [段落接續]
+💬 In cloud AI, data center royalty revenue continues to double year-on-year, with the ramp of Arm-based chips by all major hyperscaler companies. We are getting a further benefit as the build out of these new AI data centers are driving increased deployment of networking chips, particularly DPUs and SmartNICs where Arm has a very high market share. In physical AI, the automotive market grew double-digits year-on-year and contributed to our strong royalty performance. Overall royalty revenue growth continues to reflect Arm's increasing royalty for chips and rising market share.
+
+👤 Q
+💬 Yeah. Thanks for taking the questions. Rene, you touched upon in the prepared remarks, but it was kind of curious if you could just maybe give us a little more detail on just how you view Arm's role and the role of the CPU in AI and cloud data centers. And just how does that change as we start to see more proliferation of AI agents? .....................................................................................................................................................................................................................................................................
+
+👤 ## A
+💬 Yeah, thank you for the question. There is a number of shifts taking place in the data center, as I mentioned in the opening remarks. First off, as the shift moves away from exclusively training to predominantly inference, that is a workload that launches a number of different solution paths. One of them that we're seeing is around agentic AI and the agents that are actually talking to other agents or having to control workflows such as service tickets or other work streams, those are very, very well suited for CPUs, because CPUs are very, very power efficient, always-on, very, very fast latency. And what we are seeing is already an increased deployment of CPUs to address that problem.
+
+👤 [段落接續]
+💬 Now it's just not CPUs that are good for that problem. It's the number of CPUs you have. And obviously, given the power constraints inside the data center, the efficiency of those CPUs. So, for all those reasons, that's a very
+
+👤 **==> picture [12 x 16] intentionally omitted <==**
+💬 Thanks for taking my question. I actually just had two clarifications. One is, I was hoping you could quantify the exact amount of data center revenue. I know you said that it doubled. But how much is it? So, we can get a sense for, like, what the magnitude is versus the overall company sales. And then the clarification, the other clarification I had was I think you mentioned SoftBank contributed $200 million. I somehow recall the original expectation was about $178 million, $180 million. And if you could clarify that and what are you embedding for March and onwards from that contribution? Thank you.
+
+👤 Q
+💬 And the data center revenue?
+
+👤 ## A
+💬 Yeah, data center revenue, we provide the details on that once a year. I think at the beginning of this year, we said it had just hit double-digit. And because it's growing so much faster than the rest, assume it's going to be, somewhere in kind of the teens to probably getting closer to 20%. As Rene said, over the next, two to three years, you should expect to see it get similar or maybe even larger than the smartphone business, which is in the, kind of 40% to 45% of total business.
+
+👤 Q
+💬 Yeah. Hi, thanks for taking the question. Rene, I just wanted to find out a little bit about how to think about Arm's IP penetration rate or percentage rate in AI data center SMEs today, and where do you think that evolves over the next three years to five years?
+
+👤 **==> picture [12 x 16] intentionally omitted <==**
+💬 Hey, it's a wonderful question. I think what we're going to do the next three years is a evolving of how these data center chips are built out. And what do I mean by that? Today you've got a classic architecture where you've got a CPU which connects into an accelerator. The CPU does some work, the GPU does some work. I think we're going to start to see over time is a morphing of the workloads that the CPU takes that the GPU used to do. And as I mentioned, you go to agentic inference that's going to mean more CPUs, which could be more different custom chips that are CPU based. In addition, the inference workloads, which are dominated by two pieces of area of work specifically prefill and decode, you could see some specific solutions around that, that continue to extend things like what a Grok has done. For example, you could still see more kind of innovation across that area.
+
+👤 [段落接續]
+💬 I also think, you asked about the data center, but I think we're going to start to see a lot of that migrate to the smaller form factors where different combinations of IP and solutions are going to be needed to address areas where power is much more constrained, particularly around physical AI and then the lower edge devices. So, I think there's a lot of innovation to come in solving the AI problems, because one thing that's clear is that these AI workloads are going to be running on every single piece of hardware that has compute. And because the vast majority of the compute platforms out there today are already Arm-based, gives us a gigantic opportunity to move where that goes.
+
+=========================================
+🔍 關鍵字: AUTO (共找到 4 處)
+=========================================
+
+👤 **==> picture [12 x 16] intentionally omitted <==**
+💬 To align with how our customers deploy AI, we've organized ourselves around three business units: edge AI, physical AI, and cloud AI. Edge AI comprises the smartphone and IoT businesses. Physical AI includes automotive and robotics, and cloud AI encompasses data center and networking. A key driver of our royalty momentum is compute subsystems or CSS. We launched CSS nearly two-and-a-half years ago and demand continues to exceed expectations. This quarter, we signed two additional CSS licenses for edge AI tablets and smartphones, bringing us to 21 CSS licenses across 12 companies. Five customers are now shipping CSS based chips, including two shipping a second generation platform, and the top four Android smartphone vendors are shipping CSS power devices. CSS helps customer get to market faster by lowering integration risk and complexity. As demand scales, it increases the value that Arm delivers per chip, creating a significant tailwind to royalties.
+
+👤 [段落接續]
+💬 Arm's strength, power efficiency, predictable latency, and always-on operation are best suited to on-device agents that continually monitor inputs, prioritize tests, and invoke models when needed to preserve battery life. Our common software foundation across devices, vehicles, and robotics lets customers scale deployments without rebuilding software stacks. We now see that momentum in customer innovation. Rivian announced its thirdgeneration Autonomy Computer based on the Arm-based Rivian Autonomy Processor. The first production vehicle based on a custom Arm chip and the first to deploy Armv9 in a production car. Tesla's upcoming Optimus
+
+👤 **==> picture [12 x 16] intentionally omitted <==**
+💬 humanoid robot is also powered by a custom Arm-based AI processor and platform from leading silicon providers like NVIDIA's Jetson Thor and Qualcomm's Dragonwing platforms are scaling Arm-based solutions across robotics and autonomous systems.
+
+👤 [段落接續]
+💬 In cloud AI, data center royalty revenue continues to double year-on-year, with the ramp of Arm-based chips by all major hyperscaler companies. We are getting a further benefit as the build out of these new AI data centers are driving increased deployment of networking chips, particularly DPUs and SmartNICs where Arm has a very high market share. In physical AI, the automotive market grew double-digits year-on-year and contributed to our strong royalty performance. Overall royalty revenue growth continues to reflect Arm's increasing royalty for chips and rising market share.
+
